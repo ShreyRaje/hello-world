@@ -1,3 +1,3 @@
-# hello-world
-Avai
-hello there! Its my first repository, hope to go a long way from here.
+# Hello-world
+
+Hello there! Its my first repository, hope to go a long way from here.
